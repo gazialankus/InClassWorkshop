@@ -1,11 +1,11 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log("gazihan's change");
+		Debug.Log("Gazihan's change");
 		MyFunc();
 	}
 	
@@ -15,7 +15,8 @@ public class NewBehaviourScript : MonoBehaviour {
 	}
 
 	void MyFunc() {
-		Debug.Log("myfunc was called. gazihan was here.");
-		Debug.Log ("Volkan, Volkan Pehlivan 35 izmir :D");
+		Debug.Log("MyFunc was called. Gazihan was here.");
+		Debug.Log ("Volkan, Volkan Pehlivan 35 İzmir :D");
+		
 	}
 }
