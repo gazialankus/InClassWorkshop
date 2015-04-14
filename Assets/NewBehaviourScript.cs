@@ -15,5 +15,6 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	void MyFunc() {
 		Debug.Log("myfunc was called");
+		Debug.Log ("Volkan");
 	}
 }
