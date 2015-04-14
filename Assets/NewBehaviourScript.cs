@@ -14,7 +14,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	}
 
 	void MyFunc() {
-		Debug.Log("myfunc was called");
+		Debug.Log("myfunc was called. gazihan was here.");
 		Debug.Log ("Volkan");
 	}
 }
